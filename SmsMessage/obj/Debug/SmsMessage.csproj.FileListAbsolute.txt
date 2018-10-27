@@ -1,0 +1,12 @@
+D:\Projects\CSharp\My_Code\My_App\SmsMessage\SmsMessage\bin\Debug\SmsMessage.exe.config
+D:\Projects\CSharp\My_Code\My_App\SmsMessage\SmsMessage\bin\Debug\SmsMessage.exe
+D:\Projects\CSharp\My_Code\My_App\SmsMessage\SmsMessage\bin\Debug\SmsMessage.pdb
+D:\Projects\CSharp\My_Code\My_App\SmsMessage\SmsMessage\bin\Debug\SmsIrRestful.dll
+D:\Projects\CSharp\My_Code\My_App\SmsMessage\SmsMessage\obj\Debug\SmsMessage.csprojResolveAssemblyReference.cache
+D:\Projects\CSharp\My_Code\My_App\SmsMessage\SmsMessage\obj\Debug\SmsMessage.FrmSendSMSByAPI.resources
+D:\Projects\CSharp\My_Code\My_App\SmsMessage\SmsMessage\obj\Debug\SmsMessage.FrmSendSMSByHTTPPost.resources
+D:\Projects\CSharp\My_Code\My_App\SmsMessage\SmsMessage\obj\Debug\SmsMessage.Properties.Resources.resources
+D:\Projects\CSharp\My_Code\My_App\SmsMessage\SmsMessage\obj\Debug\SmsMessage.csproj.GenerateResource.Cache
+D:\Projects\CSharp\My_Code\My_App\SmsMessage\SmsMessage\obj\Debug\SmsMessage.exe
+D:\Projects\CSharp\My_Code\My_App\SmsMessage\SmsMessage\obj\Debug\SmsMessage.pdb
+D:\Projects\CSharp\My_Code\My_App\SmsMessage\SmsMessage\obj\Debug\SmsMessage.frmVerificationCodeAPI.resources
